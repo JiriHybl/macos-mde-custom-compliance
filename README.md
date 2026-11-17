@@ -129,3 +129,7 @@ The repository's `.gitattributes` enforces LF for shell scripts on checkout.
 - [Create custom compliance discovery scripts](https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script)
 - [Create custom compliance JSON rules](https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json)
 - [Microsoft Defender for Endpoint on macOS](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-mac)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
